@@ -1,6 +1,4 @@
 # Hola a todos 👋🏻, Soy Mariana Arias
-
-### Desarrolladora Web Front-End
 ![cover](https://user-images.githubusercontent.com/110046283/191897868-0d35baf0-c078-4b55-958f-4541165dff50.png)
 ---
 Soy estudiante del pregrado de Estadística y estudiante autodidacta de Desarrollo Web enfocado en programación Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.  
