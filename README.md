@@ -6,8 +6,8 @@ Soy estudiante del pregrado de Estadística y estudiante autodidacta de Desarrol
 Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsable y proactiva, me gusta retarme y siempre estoy dispuesta a adquirir nuevos conocimientos. Aspiro conseguir mi primer empleo en el mundo del Desarrollo Web, adquirir experiencia y fortalecer mi vida profesional.  
 
 <p>
-<a href="https://https://www.instagram.com/mar.am0410/?next=%2F"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://https://www.linkedin.com/in/mariana-arias-montoya-b37a311a7/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/mar.am0410/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mariana-arias-montoya-b37a311a7/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ---
