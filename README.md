@@ -8,6 +8,7 @@ Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, c
 <p>
 <a href="https://www.instagram.com/mar.am0410/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mariana-arias-montoya-b37a311a7/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://codepen.io/mariasmoUN"><img src="https://img.shields.io/badge/CodePen-%23323330.svg?style=for-the-badge&logo=CodePen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ---
