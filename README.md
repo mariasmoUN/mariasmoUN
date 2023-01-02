@@ -37,10 +37,10 @@ Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, c
 ---  
 ### Estadísticas de GitHub
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mariasmoUN&show_icons=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mariasmoUN&show_icons=true&theme=dark"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariasmoUN&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariasmoUN&layout=compact&theme=dark"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mariasmoUN"><p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mariasmoUN&theme=dark"><p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mariasmoUN&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
