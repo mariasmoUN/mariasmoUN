@@ -48,4 +48,4 @@ Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariasmoUN&layout=compact&title_color=795e5e&bg_color=0d1117&hide_border=true&text_color=ffffff">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mariasmoUN&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mariasmoUN&title_color=795e5e&bg_color=0d1117&line=795e5e&area_color=795e5e&hide_border=true&color=fff&point=a88885)](https://github.com/ashutosh00710/github-readme-activity-graph)
