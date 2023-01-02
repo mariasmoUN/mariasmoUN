@@ -18,6 +18,7 @@ Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, c
 🎨 Diseño:
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 📋 Lenguajes:
 
@@ -50,4 +51,4 @@ Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, c
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mariasmoUN&title_color=795e5e&bg_color=0d1117&line=795e5e&area_color=795e5e&hide_border=true&color=fff&point=a88885)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img src="https://visitcount.itsvg.in/api?id=mariasmoUN&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<img src="https://visitcount.itsvg.in/api?id=mariasmoUN&label=Profile%20Views&color=12&icon=5&pretty=true">
