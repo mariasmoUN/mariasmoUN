@@ -37,13 +37,15 @@ Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, c
 ---  
 ### Estadísticas de GitHub
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariasmoUN&show_icons=true&theme=dracula">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariasmoUN&theme=dracula">
+
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=mariasmoUN&show_icons=true&count_private=true&hide_border=true&title_color=795e5e&icon_color=795e5e&text_color=c9d1d9&bg_color=0d1117" alt="Mr MRF github stats"/> 
+ 
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=mariasmoUN&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=795e5e&fire=795e5e&currStreakLabel=795e5e"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariasmoUN&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariasmoUN&layout=compact&title_color=795e5e&bg_color=0d1117&hide_border=true&text_color=ffffff">
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mariasmoUN&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
