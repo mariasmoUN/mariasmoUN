@@ -38,8 +38,8 @@ Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, c
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariasmoUN&show_icons=true&theme=dracula">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariasmoUN&theme=dracula">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariasmoUN&show_icons=true&theme=dracula">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariasmoUN&theme=dracula">
 </div>
 
 <div align="center">
