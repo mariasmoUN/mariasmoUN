@@ -44,7 +44,4 @@ Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, c
  
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=mariasmoUN&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=795e5e&fire=a88885&currStreakLabel=795e5e"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariasmoUN&layout=compact&title_color=795e5e&bg_color=0d1117&hide_border=true&text_color=ffffff">
 </div>
