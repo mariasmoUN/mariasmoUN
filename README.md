@@ -1,6 +1,5 @@
 # Hola a todos 👋🏻, Soy Mariana Arias
-![cover](https://user-images.githubusercontent.com/110046283/191897868-0d35baf0-c078-4b55-958f-4541165dff50.png)
----
+
 Soy estudiante del pregrado de Estadística y estudiante autodidacta de Desarrollo Web enfocado en programación Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.  
   
 Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsable y proactiva, me gusta retarme y siempre estoy dispuesta a adquirir nuevos conocimientos. Aspiro conseguir mi primer empleo en el mundo del Desarrollo Web, adquirir experiencia y fortalecer mi vida profesional.  
